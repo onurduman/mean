@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/onurduman/repository.git"
+    "url": "git://github.com/onurduman/mean.git"
   },
   "bugs": {
-    "url": "https://github.com/onurduman/repository/issues"
+    "url": "https://github.com/onurduman/mean/issues"
   },
-  "homepage": "https://github.com/onurduman/repository#readme",
+  "homepage": "https://github.com/onurduman/mean#readme",
   "devDependencies": {},
   "keywords": [
     "Extreme",
