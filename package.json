@@ -1,0 +1,29 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "Extreme Tech Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Onur Duman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jade": "^1.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/onurduman/repository.git"
+  },
+  "bugs": {
+    "url": "https://github.com/onurduman/repository/issues"
+  },
+  "homepage": "https://github.com/onurduman/repository#readme",
+  "devDependencies": {},
+  "keywords": [
+    "Extreme",
+    "Tech",
+    "Training"
+  ]
+}
